@@ -8,4 +8,4 @@
 - [ ] 깃허브 리드미 작성하기
 - [ ] 블로그 포스팅하기
 
-[깃허브 바로가기](https://github.com/minhee0830)
+[깃허브 바로가기](https://github.com/2sseung)
